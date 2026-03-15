@@ -34,6 +34,6 @@ We are 100% open-source and Africa-oriented. Whether you are a Rust expert, a Re
 
 ---
 
-[StellarFlow Logo or Impact Visual]
+[StellarFlow Logo] coming soon . . .
 
 **Built for the future of Africa on the Stellar Blockchain.**
